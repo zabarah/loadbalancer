@@ -1,0 +1,20 @@
+Server 2 response to Customer: 0
+---
+Server 0 response to Customer: 2
+----
+Server 1 response to Customer: 1
+----------
+Server 1 response to Customer: 5
+
+Server 2 response to Customer: 3
+-------
+Server 0 response to Customer: 4
+----
+Server 1 response to Customer: 6
+
+Server 0 response to Customer: 8
+-
+Server 2 response to Customer: 7
+
+Server 1 response to Customer: 9
+
